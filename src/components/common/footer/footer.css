@@ -43,7 +43,7 @@
     
 }
 .footer-content>img{
-  width: 80%;
+  width: 20%;
 }
 
 @media (max-width:480px) {
@@ -58,6 +58,22 @@
     padding: 100px 40px;
 
   }
+  .contact-info .number {
+    font-size: 27
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    px;
+    font-weight: 100;
+}
 
   .contact-info{
     padding: 0;
@@ -70,9 +86,13 @@
     flex-basis: 100%;
   }
   .footer-content{
+    text-align: center;
     align-items: center;
   }
   .policy{
     margin-top: 20px;
+  }
+  .footer-content>img{
+    width: 80%;
   }
 }

@@ -48,13 +48,13 @@ const Navbar = () => {
                       <p className="mega-menu-desc">Highly Experienced Team</p>
                       <ul className="mega-links">
                         <li>
-                          <a href="/">Our Agency</a>
+                          <a href="/agency">Our Agency</a>
                         </li>
                         <li>
-                          <a href="/">Our Services</a>
+                          <a href="/services">Our Services</a>
                         </li>
                         <li>
-                          <a href="/">Pricing Packages</a>
+                          <a href="/pricing">Pricing Packages</a>
                         </li>
                       </ul>
                     </div>
