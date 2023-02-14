@@ -1,0 +1,46 @@
+.fact-bg {
+  background-color: #4c9fdb;
+  padding: 30px 0;
+}
+.fact-bg p {
+  color: rgb(255, 255, 255);
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 27px;
+}
+.fact-bg img {
+  width: 30px;
+  height: 30px;
+  filter: invert(100%);
+  margin-right: 20px;
+}
+.fact-content {
+  display: flex;
+  /* align-items: center;
+    justify-content: center; */
+  flex-direction: row;
+}
+
+.vision-bg {
+  background-color: #59ace7;
+  padding: 40px 0;
+}
+.vision-sub-headline {
+  color: rgba(7, 7, 7, 0.28);
+  font-size: 17px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 22px;
+  letter-spacing: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.vision-headline {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-weight: 500;
+  font-style: normal;
+  padding: 0 50px;
+  line-height: 42px;
+  text-align: center;
+}
